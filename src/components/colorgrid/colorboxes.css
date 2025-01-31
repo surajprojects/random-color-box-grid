@@ -1,0 +1,5 @@
+.containerBox {
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+}
