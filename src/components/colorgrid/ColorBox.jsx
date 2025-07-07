@@ -15,7 +15,8 @@ export default function ColorBox({ colorsList }) {
         border: "1px solid black",
         borderRadius: "5%",
         margin: "0.1rem",
-        backgroundColor: color
+        backgroundColor: color,  
+        cursor: "pointer",      
     };
 
     let changeColor = () => {
